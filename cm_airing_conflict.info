@@ -3,7 +3,7 @@ description = "Defines Airing conflict entity and provides some starter Views."
 package = "Community Media Advanced"
 php = "5.2.4"
 core = "7.x"
-version = "7.x-2.x"
+version = "7.x-2.1"
 
 dependencies[] = "entity"
 
