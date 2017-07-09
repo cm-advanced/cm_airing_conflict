@@ -3,7 +3,7 @@ description = "Defines Airing conflict entity and provides some starter Views."
 package = "Community Media Advanced"
 php = "5.2.4"
 core = "7.x"
-version = "7.x-2.2"
+version = "7.x-2.3"
 
 dependencies[] = "entity"
 
@@ -12,5 +12,5 @@ files[] = "cm_airing_conflict.controller.inc"
 configure = admin/structure/cm-airing-conflict/manage/fields
 
 project = "cm_airing_conflict"
-project_status_url = https://github.com/cm-advanced/cm_airing
+project_status_url = https://github.com/cm-advanced/cm_airing_conflict
 
